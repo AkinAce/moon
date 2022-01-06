@@ -1,4 +1,5 @@
 hello
 world
-gold
+golden
 child
+silver
